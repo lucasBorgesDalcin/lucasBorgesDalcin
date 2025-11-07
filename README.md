@@ -43,9 +43,5 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas3919&show_icons=true&theme=github_dark"/>
-
-<br>
-
 ### Developer of:
 [![Cesio_Bot](https://github-readme-stats.vercel.app/api/pin/?username=cesarstudents&repo=Cesio_Bot&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/cesarstudents/Cesio_Bot)
