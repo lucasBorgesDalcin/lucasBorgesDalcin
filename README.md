@@ -47,9 +47,5 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 
 <br>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas3919&theme=github_dark)
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=lucas3919&theme=dark)
-
 ### Developer of:
 [![Cesio_Bot](https://github-readme-stats.vercel.app/api/pin/?username=cesarstudents&repo=Cesio_Bot&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/cesarstudents/Cesio_Bot)
