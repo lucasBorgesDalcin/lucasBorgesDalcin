@@ -3,7 +3,7 @@ Hello humans!</br>I'm Lucas 🐱‍👤
 </h1>
 
 <p align='center'>
- I'm passionate about Learning & Teaching and Developing problem solving softwares.
+ I'm passionate about Learning, Teaching and Developing softwares with social impact.
 </p>
 
 <div align='center'>
