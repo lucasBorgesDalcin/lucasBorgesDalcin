@@ -7,7 +7,7 @@ Hello humans!</br>I'm Lucas 🙋‍♂️
 
 <div align='center'>
 📫 How to reach me:
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-borges-dalcin-948a4020b/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-borges-dalcin-948a4020b/)]
 </div>
 
 ### Programming:
