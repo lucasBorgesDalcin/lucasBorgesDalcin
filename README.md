@@ -6,7 +6,7 @@ Hello humans!</br>I'm Lucas 🙋‍♂️
 </p>
 
 <div align='center'>
-📫 How to reach me: <br>
+📫 How to reach me:
 <a href="https://www.linkedin.com/in/lucas-borges-dalcin-948a4020b/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
